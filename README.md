@@ -12,6 +12,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p_dntmdgns03)](https://solved.ac/p_dntmdgns03/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=c_dntmdgns03)](https://solved.ac/c_dntmdgns03/)
 
+<br/>
+<br/>
+## GitHub Stats    
+![Seung hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=radical)
+
+
 <!--
 **shwoo03/shwoo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
