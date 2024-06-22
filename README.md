@@ -15,7 +15,7 @@
 <br/>
 <br/>
 ## GitHub Stats    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=radical)
 
 
 <!--
