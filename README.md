@@ -1,5 +1,4 @@
 # 저를 소개합니다. 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA11F7&random=false&width=435&lines=Welcome+to+shwoo03's+GitHub.)](https://git.io/typing-svg)
      
 정보보안 전문가를 꿈꾸는 대학생입니다.    
 <br/>
