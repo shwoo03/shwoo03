@@ -16,8 +16,8 @@
 <br/>
 
 ## GitHub Stats    
-![shwoo03's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwooo03&layout=Compact layout&theme=Gradient)
+![shwoo03's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=ambient_gradient)  
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwooo03&layout=Compact&theme=Gradient)
 
 
 
