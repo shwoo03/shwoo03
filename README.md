@@ -15,7 +15,7 @@
 <br/>
 <br/>
 ## GitHub Stats    
-![Seung hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&show_icons=true&theme=radical)
 
 
 <!--
