@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20shwoo03's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 <br/>
+
 # 저를 소개합니다. 👋
      
 정보보안 전문가를 꿈꾸는 대학생입니다.    
