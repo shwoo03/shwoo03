@@ -3,7 +3,10 @@
 정보보안 전문가를 꿈꾸는 대학생입니다.    
    
 🛠️ Stacks   
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p_dntmdgns03)](https://solved.ac/p_dntmdgns03/)
+
 
 <!--
 **shwoo03/shwoo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
