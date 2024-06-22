@@ -16,7 +16,7 @@
 <br/>
 
 ## GitHub Stats    
-[![shoow03's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![shoow03's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwoo03&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/shwoo03/github-readme-stats)
 
 
 
