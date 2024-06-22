@@ -3,9 +3,12 @@
 <br/>
 
 # 저를 소개합니다. 👋
-안녕하세요! 정보보안 전문가를 꿈꾸는 대학생입니다.       
+안녕하세요! 정보보안 전문가를 꿈꾸는 대학생입니다.     
+<p align="center">
 <a href="https://www.instagram.com/seunghun0312"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seunghun0312"/></a>
+<p/>
 <br/>
+
        
 ## 🛠️ Stacks           
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
