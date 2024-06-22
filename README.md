@@ -3,10 +3,11 @@
 정보보안 전문가를 꿈꾸는 대학생입니다.    
 <br/>
        
-## 🛠️ Stacks        
+## 🛠️ Stacks           
+<br/>
 
    
-# 파이썬, C       
+## 파이썬, C       
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p_dntmdgns03)](https://solved.ac/p_dntmdgns03/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=c_dntmdgns03)](https://solved.ac/c_dntmdgns03/)
 
