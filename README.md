@@ -12,11 +12,8 @@
        
 ## 🛠️ Stacks           
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
-
 <br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Web%20Hacking-23272A?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Hacking-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <br/>  
    
 ## [Tier] Python, C       
