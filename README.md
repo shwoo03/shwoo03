@@ -20,7 +20,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p_dntmdgns03)](https://solved.ac/p_dntmdgns03/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=c_dntmdgns03)](https://solved.ac/c_dntmdgns03/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdgns03_java)](https://solved.ac/dntmdgns03_java/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmdgns03_java)](https://solved.ac/dntmdgns03_assembly/)
 
 
 
